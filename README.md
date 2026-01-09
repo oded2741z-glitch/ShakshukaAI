@@ -1,0 +1,2 @@
+# ShakshukaAI
+IDE AI FREE
